@@ -33,14 +33,13 @@ class handDetector():
                 lmList.append([id, cx, cy])
                 #Draw point a landmark
                 if draw:
-                    cv2.circle(img, (cx,cy), 8, (255,0,255), cv2.FILLED)
+                    cv2.circle(img, (cx,cy), 10, (255,0,255), cv2.FILLED)
         return lmList
 
 def main():
     #FPS
     pTime = 0
     cTime = 0
-
     # camera selector
     cap = cv2.VideoCapture(0)
     detector = handDetector()
