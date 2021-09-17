@@ -9,9 +9,9 @@ classifiers = [
 ]
 
 setup(
-	name='HandTrackingModule',
+	name='Silver-HandTrackingModule',
 	version='1.0.0',
-	description='Track the Hands from Web Cam (Default)',
+	description='Track the Hands from Web Cam as default',
 	long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
 	url='https://github.com/Cadris/HandTrackModule',
 	author='Sayan Dasgupta',

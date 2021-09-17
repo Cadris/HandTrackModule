@@ -2,19 +2,23 @@ Python Hand Tracking Module:
 	This is a Hand Tracking Module, which tracks the position of different landmarks in the hand.
 	Note: You can run the module as a standalone.
 
------------------------------------------
+-------------------------------------------------------------
 Github Repository : https://github.com/Cadris/HandTrackModule
------------------------------------------
+-------------------------------------------------------------
 
 Language Used : Python
+
 Requirements(Do a pip install) :
-	OpenCV
-	MediaPipe
+---------------------------------
+OpenCV
+MediaPipe
+
 Files :
-	HandTrackingModule.py - Main Module. You Need to import this file to your File.
-	main.py - The Whole Thing. I used it to devolop the project.
-	Application2.py - Used this to show how to use the Hand Tracking Module.
-	README.md : Summon Michael Jackson.
+-------
+HandTrackingModule.py - Main Module. You Need to import this file to your File.
+main.py - The Whole Thing. I used it to devolop the project.
+Application2.py - Used this to show how to use the Hand Tracking Module.
+README.md : Summon Michael Jackson.
 
 My My pip list
 ---------------
