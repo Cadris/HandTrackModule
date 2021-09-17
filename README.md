@@ -2,6 +2,13 @@
 
 This is a Hand Tracking Module, which tracks the position of different landmarks in the hand.
 
+------------------------------------------------------------------
+Package at Pypi : https://pypi.org/project/Silver-HandTrackingModule/
+
+How to install : `pip install Silver-HandTrackingModule`
+
+------------------------------------------------------------------
+
 1. Language Used : **Python**
 2. Requirements(Do a pip install) : 
    - OpenCV
